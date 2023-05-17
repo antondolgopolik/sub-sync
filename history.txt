@@ -1,0 +1,131 @@
+ Are you paying attention? ------->  ОСНОВАНО НА РЕАЛЬНЫХ СОБЫТИЯХ 1951 год. Манчестер, Англия. Вы внимательно слушаете?
+1: from 0 to 0
+2: from 0 to 2
+divergence =  tensor(1.3910)
+-----------------------------------
+-----------------------------------
+ Good. If you're not listening carefully, you will miss things, ------->  Хорошо. Ведь иначе - вы многое упустите, упустите важное.
+1: from 1 to 2
+2: from 3 to 5
+divergence =  tensor(0.9022)
+-----------------------------------
+-----------------------------------
+ important things. I will not pause. I will not repeat myself, and you will not interrupt me. ------->  Я не буду делать пауз. Не стану повторять, а вы не станете меня перебивать.
+1: from 3 to 4
+2: from 6 to 8
+divergence =  tensor(0.7799)
+-----------------------------------
+-----------------------------------
+ You think that because you are sitting where you are and I am sitting where I am that you are in control of what is about to happen. ------->  По-вашему, раз вы сидите там, а я сижу здесь - то вы всё контролируете.
+1: from 5 to 6
+2: from 9 to 11
+divergence =  tensor(0.6803)
+-----------------------------------
+-----------------------------------
+ You're mistaken. I am in control. Because I know things that you do not know. ------->  Вы ошибаетесь. Контролирую всё - я. Потому что я знаю то, что вам неизвестно.
+1: from 7 to 8
+2: from 12 to 14
+divergence =  tensor(1.0522)
+-----------------------------------
+-----------------------------------
+ Manchester Police Department, please hold. Windows broken. Home's been ransacked. ------->  Полиция Манчестера, ожидайте. ШТАБ-КВАРТИРА СЕКРЕТНОЙ РАЗВЕДСЛУЖБЫ МИ6  Тьюринг, Алан. Окна выбиты. В доме всё вверх дном.
+1: from 9 to 10
+2: from 15 to 17
+divergence =  tensor(1.1754)
+-----------------------------------
+-----------------------------------
+ Send a detective down, will you? What I will need from you now is a commitment. ------->  Пришлите детектива, хорошо? От вас потребуется заинтересованность и полная самоотдача.
+1: from 11 to 12
+2: from 18 to 20
+divergence =  tensor(1.2877)
+-----------------------------------
+-----------------------------------
+ You will listen closely, and you will not judge me until I am finished. If you cannot commit to this, then please leave the room. ------->  Вы будете слушать и не будете осуждать, и не станете делать какие-либо выводы, пока я не закончу. Если вы не можете такого себе позволить,
+1: from 13 to 14
+2: from 21 to 23
+divergence =  tensor(1.5064)
+-----------------------------------
+-----------------------------------
+ Come in. ------->  покиньте комнату. Войдите. Но коли решите остаться
+1: from 15 to 15
+2: from 24 to 26
+divergence =  tensor(1.7590)
+-----------------------------------
+-----------------------------------
+ But if you choose to stay, remember you chose to be here. What happens from this moment forwards is not my responsibility. ------->  не забывайте, что это ваш выбор. За то, что случится далее я не в ответе.
+1: from 16 to 17
+2: from 27 to 29
+divergence =  tensor(1.2363)
+-----------------------------------
+-----------------------------------
+ It's yours. Pay attention. ------->  В ответе лишь вы. | АЛАНА ТЬЮРИНГА ОГРАБИЛИ. ПОЛИЦИЯ НАЧАЛА РАССЛЕДОВАНИЕ. Будьте внимательны.
+1: from 18 to 19
+2: from 30 to 31
+divergence =  tensor(1.1447)
+-----------------------------------
+-----------------------------------
+ - What's all this, then? - Turing, Alan. Professor at King's. ------->  Ну, что тут у нас? Тьюринг, Алан. Профессор в Королевском Колледже.
+1: from 20 to 20
+2: from 32 to 34
+divergence =  tensor(1.0700)
+-----------------------------------
+-----------------------------------
+ - Seems there's been a burglary. - Oh? What of? Well, that's just it. Nothing missing, really. ------->  Похоже, ограбление. Да ну? Что вынесли? Ну, в том и суть. Всё на месте.
+1: from 21 to 22
+2: from 35 to 37
+divergence =  tensor(0.6181)
+-----------------------------------
+-----------------------------------
+ What's he doing in Manchester? Something with machines. The project at the NPL. ------->  Что он делает в Манчестере? Работает с какими-то машинами. Некий проект в Национальной Физической Лаборатории.
+1: from 23 to 25
+2: from 38 to 40
+divergence =  tensor(0.5914)
+-----------------------------------
+-----------------------------------
+ I checked, but he won't say what it's on. Professor Turing? Detective Nock, Manchester Police. ------->  Я пробивал, но что за проект - говорить отказывается. Профессор Тьюринг? Детектив Нок, полиция Манчестера.
+1: from 26 to 27
+2: from 41 to 43
+divergence =  tensor(0.6828)
+-----------------------------------
+-----------------------------------
+ Sergeant Staehl here tells me you had a burglary last night. Professor Turing? Take a step back, and don't breath heavily. ------->  Сержант Сталь говорит, что ночью вас ограбили. Профессор Тьюринг? Сделайте шаг назад и не делайте глубоких вдохов.
+1: from 28 to 30
+2: from 44 to 46
+divergence =  tensor(0.7193)
+-----------------------------------
+-----------------------------------
+ - Breathe? - Undiluted cyanide. It wouldn't take more than a thimbleful to kill you. ------->  - Что-что? - Чистый цианид. Хватит и  щепотки, чтобы вас не стало.
+1: from 31 to 32
+2: from 47 to 49
+divergence =  tensor(0.6701)
+-----------------------------------
+-----------------------------------
+ - Disappointing. - Pardon? I had hoped for a bit more. ------->  Удручающее зрелище. Простите? Я надеялся на самую малость большее.
+1: from 33 to 34
+2: from 50 to 52
+divergence =  tensor(0.7918)
+-----------------------------------
+-----------------------------------
+ Sergeant Staehl, is it just me, or do you get the sense that we're being insulted? Last night, you had a break-in. ------->  Сержант Сталь, меня одного терзает ощущение, что нас оскорбили? Ночью к вам вломились.
+1: from 35 to 36
+2: from 53 to 55
+divergence =  tensor(0.8529)
+-----------------------------------
+-----------------------------------
+ Your neighbor, Mr. Springborn, called to report the noise. He said there was quite a ruckus. Only you say nothing was taken. ------->  Ваш сосед, мистер Спрингборн, пожаловался на шум в полицию. Он сообщил, что шумели будь здоров. Однако, вы говорите, что всё на месте.
+1: from 37 to 38
+2: from 56 to 58
+divergence =  tensor(0.8765)
+-----------------------------------
+-----------------------------------
+ It's odd. So, how about you tell us what happened, and we'll find the chap who did this. ------->  Это странно. Так может сообщите, что стряслось? А мы уже найдём виновного. Господа,
+1: from 39 to 40
+2: from 59 to 61
+divergence =  tensor(0.8605)
+-----------------------------------
+-----------------------------------
+ Gentlemen, I don't believe that you could find the chap that did this if he walked up to you and spat in your face. ------->  полагаю, виновного вы не найдёте даже, если он подойдёт и плюнет вам в лица.
+1: from 41 to 42
+2: from 62 to 64
+divergence =  tensor(0.8822)
+-----------------------------------
